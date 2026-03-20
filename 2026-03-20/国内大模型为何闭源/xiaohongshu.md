@@ -2,7 +2,7 @@
 
 最近发现一个很有意思的事
 
-MiniMax 的 abab6.5、小米的 MiLM 这些新出的模型
+MiniMax 的 M2.7、小米的 MiMo 平台模型这些新出的模型
 全都 闭 源 了
 
 要知道之前阿里通义 Qwen、DeepSeek 可都是疯狂开源的

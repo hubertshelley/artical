@@ -26,7 +26,7 @@ This article analyzes the strategic differences between Chinese and Western AI c
 | **MiniMax** | Shifted to closed source | abab6.5 series closed |
 | **ByteDance (Doubao)** | Always closed source | Internal use + cloud services |
 | **Baidu (Wenxin)** | Always closed source | Enterprise-focused |
-| **Xiaomi** | Closed source | Edge deployment focus |
+| **Xiaomi** | Closed source | MiMo platform models |
 | **Tencent (Hunyuan)** | Semi-open | Some open source, main models closed |
 
 ### Western AI Camp
