@@ -23,7 +23,7 @@ This article analyzes the strategic differences between Chinese and Western AI c
 | **Alibaba (Qwen)** | Aggressive open source | Qwen2.5 full series open (0.5B-72B) |
 | **DeepSeek** | Aggressive open source | V3, R1 weights released |
 | **Zhipu AI** | Partial open source | GLM-4-9B open, large models closed |
-| **MiniMax** | Shifted to closed source | abab6.5 series closed |
+| **MiniMax** | Shifted to closed source | M2.7 series closed |
 | **ByteDance (Doubao)** | Always closed source | Internal use + cloud services |
 | **Baidu (Wenxin)** | Always closed source | Enterprise-focused |
 | **Xiaomi** | Closed source | MiMo platform models |
